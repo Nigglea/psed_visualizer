@@ -4,6 +4,7 @@ metadata:
   name: psed_visualizer
   annotations:
     github.com/project-slug: Nigglea/psed_visualizer
+    backstage.io/techdocs-ref: value
 spec:
   type: visualization tool
   lifecycle: prototype
