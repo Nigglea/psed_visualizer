@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: Nigglea/psed_visualizer
 spec:
-  type: other
-  lifecycle: unknown
+  type: visualization tool
+  lifecycle: prototype
   owner: Nigglea
